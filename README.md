@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Java Developement
 - 🌱 I’m currently learning New Java related technologies
 - 💞️ I’m looking to collaborate on freelancing projects
-- 📫 How to reach me ...shekarreddykayyam6381@gmail.com
+- 📫 How to reach me ...shekarreddy6381@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
