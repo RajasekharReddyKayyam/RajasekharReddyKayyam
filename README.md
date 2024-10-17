@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RajasekharReddyKayyam
 - 👀 I’m interested in Full Stack Java Developement
-- 🌱 I’m currently learning Nnw Java related technologies
+- 🌱 I’m currently learning New Java related technologies
 - 💞️ I’m looking to collaborate on freelancing projects
 - 📫 How to reach me ...shekarreddykayyam6381@gmail.com
 - 😄 Pronouns: ...
