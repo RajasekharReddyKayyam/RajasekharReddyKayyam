@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajasekhar Reddy</h1>
 <h3 align="center"> Java Full Stack Developer</h3>
-<img align="center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
+<img align="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
 
 - 🔭 I’m currently working as **Full Stack Java Developer**
 
